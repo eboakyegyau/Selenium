@@ -1,2 +1,2 @@
 # Tutorials
-Tutorials
+Sample Automation Scripts
