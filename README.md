@@ -1,4 +1,4 @@
-# Tutorials
+# Selenium
 Sample Automation Scripts
 
 Tools: PyCharm
